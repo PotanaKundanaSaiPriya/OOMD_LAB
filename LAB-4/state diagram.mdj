@@ -31,7 +31,7 @@
 			"name": "StateMachine1",
 			"ownedElements": [
 				{
-					"_type": "UMLStatechartDiagram",
+					"_type": "UMLStatechartDiagram", 
 					"_id": "AAAAAAF5P7iaY2kt7us=",
 					"_parent": {
 						"$ref": "AAAAAAF5P7iaX2krG+0="
