@@ -31,7 +31,7 @@
 							},
 							"subViews": [
 								{
-									"_type": "UMLNameCompartmentView",
+									"_type": "UMLNameCompartmentView", 
 									"_id": "AAAAAAF42VDq5FNo9ds=",
 									"_parent": {
 										"$ref": "AAAAAAF42VDq41NnBfk="
