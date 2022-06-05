@@ -32,7 +32,7 @@
 							"subViews": [
 								{
 									"_type": "UMLNameCompartmentView",
-									"_id": "AAAAAAF42c5v6QGwy9c=",
+									"_id": "AAAAAAF42c5v6QGwy9c=", 
 									"_parent": {
 										"$ref": "AAAAAAF42c5v6AGvf10="
 									},
