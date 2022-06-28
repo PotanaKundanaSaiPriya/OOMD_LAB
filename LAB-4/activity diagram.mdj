@@ -30,7 +30,7 @@
 			},
 			"name": "Activity1",
 			"ownedElements": [
-				{
+				{ 
 					"_type": "UMLActivityDiagram",
 					"_id": "AAAAAAF5tmwQuQt80VM=",
 					"_parent": {
